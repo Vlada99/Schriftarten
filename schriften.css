@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Courgette&display=swap");
+h2 {
+  font-family: "Libre Bodoni", serif;
+}
+h3 {
+  font-family: "Courgette", cursive;
+}
+section {
+  display: block;
+  padding: 4rem;
+}
+.times {
+  font-family: "Times New Roman", "Nakula", serif;
+}
+.norasi {
+  font-family: "Norasi", "Kinnari", serif;
+}
+.navilu {
+  font-family: "Navilu", "Kalapi", sans-serif;
+}
+.purisa {
+  font-family: "Purisa", sans-serif;
+}
+#chilanka {
+  font-family: "Chilanka", sans-serif;
+}
+#comic-sans {
+  font-family: "Comic Sans MS", sans-serif;
+}
